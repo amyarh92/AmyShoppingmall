@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/ct_top"
+            android:checked="false"
+            android:title="Top"
+            />
+        <item
+            android:id="@+id/ct_bottom"
+            android:checked="false"
+            android:title="Bottom"
+            />
+        <item
+            android:id="@+id/ct_onepiece"
+            android:checked="false"
+            android:title="One-piece"
+            />
+        <item
+            android:id="@+id/ct_bs"
+            android:checked="false"
+            android:title="Bag/Shoes"
+            />
+        <item
+            android:id="@+id/ct_acs"
+            android:checked="false"
+            android:title="Accessory"
+            />
+        <item
+            android:id="@+id/pg_login"
+            android:checked="false"
+            android:title="Login"
+            />
+        <item
+            android:id="@+id/pg_cart"
+            android:checked="false"
+            android:title="Cart"
+            />
+        <item
+            android:id="@+id/pg_myinfo"
+            android:checked="false"
+            android:title="My Page"
+            />
+        <item
+            android:id="@+id/pg_joinus"
+            android:checked="false"
+            android:title="Join Us"
+            />
+        <item
+            android:id="@+id/pg_logout"
+            android:checked="false"
+            android:title="Logout"
+            />
+    </group>
+</menu>
